@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://fructus-studio.netlify.app/",
     title: "Fructus Studio",
   },
   plugins: [
